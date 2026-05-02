@@ -289,7 +289,7 @@ During test execution, the following directories are populated:
 <div align="center">
 
 **Abheetha Dhananjaya**
-*oftware Quality Assurance*
+* Software Quality Assurance *
 **Selenium Automation Project — PixelsSuite Whole System Testing**
 
 
