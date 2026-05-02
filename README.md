@@ -273,14 +273,12 @@ During test execution, the following directories are populated:
 | 5 | Image Converter | ✅ | ✅ |
 | 6 | PDF Editor | ✅ | ✅ |
 | 7 | More Tools | ✅ | ✅ |
-| ~~8~~ | ~~Transliteration~~ | ~~⛔ Excluded~~ | ~~⛔ Excluded~~ |
 
 ---
 
 ## ⚠️ Notes
 
 - 🎓 This project is intended for **academic and learning purposes only**
-- ⛔ The **Transliteration** feature is **excluded** from the test scope
 - 🔁 Some dynamic UI elements may require **locator adjustments** if the live website changes
 - 🧩 **Feature-wise execution** is strongly recommended for easier debugging and isolation
 
@@ -290,8 +288,10 @@ During test execution, the following directories are populated:
 
 <div align="center">
 
+**Abheetha Dhananjaya**
+*oftware Quality Assurance*
 **Selenium Automation Project — PixelsSuite Whole System Testing**
-*IT4100 – Software Quality Assurance*
+
 
 </div>
 
