@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PixelsSuite Selenium Suite" parallel="false">
+    <test name="PixelsSuite Whole System Smoke Tests">
+        <classes>
+            <class name="tests.DocumentConverterTest"/>
+            <class name="tests.ResizeTest"/>
+            <class name="tests.CropTest"/>
+            <class name="tests.CompressTest"/>
+            <class name="tests.ImageConverterTest"/>
+            <class name="tests.PdfEditorTest"/>
+            <class name="tests.MoreToolsTest"/>
+        </classes>
+    </test>
+</suite>
